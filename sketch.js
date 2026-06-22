@@ -15,7 +15,7 @@ function setup() {
   translate(width / 2, height - height / 3);
   angleMode(DEGREES);
 
-  boxc.resize(width/4,0)
+  boxc.resize(width/2,0)
    //bone.resize(0,height*0.9)
 
   imageMode(CENTER);
